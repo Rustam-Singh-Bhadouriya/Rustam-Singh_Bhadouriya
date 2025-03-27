@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rustam Singh Bhadouriya</h1>
 <h3 align="center">A passionate full stack developer and DSA from India</h3>
 
-<img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
+<img src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustam-singh-bhadouriya&label=Profile%20views&color=0e75b6&style=flat" alt="rustam-singh-bhadouriya" /> </p>
 
