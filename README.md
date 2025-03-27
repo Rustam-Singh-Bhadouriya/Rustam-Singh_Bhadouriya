@@ -1,4 +1,4 @@
-<img src="images.jpg" style="width=100vh">
+<img src="images.jpg" style="width=100vw;">
 <h1 align="center">Hi 👋, I'm Rustam Singh Bhadouriya</h1>
 <h3 align="center">A passionate full stack developer and DSA from India</h3>
 
